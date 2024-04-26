@@ -17,6 +17,7 @@ Gosto de fazer projetos funcionais com interfaces bonitas, estou estudando manei
 </div>
 
 ## Principais projetos
+Em breve.
 
 ## Socials
 <div>
