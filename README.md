@@ -19,8 +19,10 @@ Gosto de fazer projetos funcionais com interfaces bonitas, estou estudando manei
 ## Principais projetos
 <a href="https://jaen3dev.github.io/" target="_blank">Meu portfolio pessoal.</a>
 <p>Um site que apresenta meus projetos, as tecnologias que uso e meios de entrar em contato comigo.</p>
+
 <a href="https://www.institutoglaciadasilva.online/" target="_blank">Website do Instituto Glacia da Silva.</a>
 <p>Website do Instituto Glacia da Silva, uma ONG localizada em Campo Magro que auxilia pessoas que necessitam de aparelhato hospitalar.</p>
+
 <a href="https://github.com/jaen3dev/app-gerenciador-de-emprestimos-igds" target="_blank">Aplicativo de cadastro de empréstimos do Instituto Glacia da Silva.</a>
 <p>Aplicativo para manter organizado os dados de aparelhos emprestados pelo Instituto Glacia da Silva.</p>
 
