@@ -13,7 +13,7 @@ Gosto de fazer projetos funcionais com interfaces bonitas, estou estudando manei
   <img src="https://tauri-apps.gallerycdn.vsassets.io/extensions/tauri-apps/tauri-vscode/0.2.6/1679072733881/Microsoft.VisualStudio.Services.Icons.Default" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="45"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="45"/>
-  <img src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" height="45"/>
 </div>
 
 ## Principais projetos
@@ -28,6 +28,6 @@ Gosto de fazer projetos funcionais com interfaces bonitas, estou estudando manei
 
 ## Socials
 <div>
-  <a href="https://twitter.com/jaen3dev" target="_blank"><img src="https://seeklogo.com/images/T/twitter-x-logo-8FD8E6C4FD-seeklogo.com.png?v=638258862930000000" height="45"/></a>
+  <a href="https://twitter.com/jaen3dev" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" height="45"/></a>
   <a href="mailto:jaen3dev@proton.me"><img src="https://logos-world.net/wp-content/uploads/2022/04/ProtonMail-Symbol.png" height="45" target="_blank"></a>
 </div>
