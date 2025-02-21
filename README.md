@@ -1,4 +1,4 @@
-## Programação, 3D e Athletico, sou o Jaen 🖥️🎨🌪️
+## Programação e 3D, sou o Jaen 🖥️🎨🌪️
 
 Estou reiniciando a minha jornada no mundo da programação.  
 Sou formado em ADS pela Uninter, porém me afastei da área logo após a conclusão do curso.  
